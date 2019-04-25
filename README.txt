@@ -1,11 +1,11 @@
 ##################################################################################################################################
-			Código apresentado na disciplina de Cálculo Numérico - BCT UNIFESP 2018
-							Autores:
-						Leon Tenório da Silva
-					    Maria Augusta Saemi Yokomichi
-					   Vlademir Celso dos Santos Junior
+			    Código apresentado na disciplina de Cálculo Numérico - BCT UNIFESP 2018
+							  Autores:
+						  Leon Tenório da Silva
+					      Maria Augusta Saemi Yokomichi
+					    Vlademir Celso dos Santos Junior
 											  
-					  Turma: IA - CN 2 semestre de 2018
+					   Turma: IA - CN 2 semestre de 2018
 ##################################################################################################################################
 Para utilizar o código é necessário instalar a extensão BitVector do pip --- "pip install BitVector"
 Para rodar o caso teste é necessário executar o arquivo "run.py" com o python versão 3.X presente nessa pasta
